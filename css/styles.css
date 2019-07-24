@@ -8,6 +8,10 @@ nav {
     word-spacing: 20px;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
   background: #36393F;
 }
