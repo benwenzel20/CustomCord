@@ -12,6 +12,7 @@ nav {
 
 a {
     text-decoration: none;
+    color: #5DB4FE;
 }
 
 body {
@@ -33,9 +34,23 @@ h2 {
 }
 
 img {
-    
+    border-color: black;
+    border: 2px;
+    border-style: solid;
 }
 
 p {
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    color: #e0e0e0;
+}
+
+th {
+    
+}
+
+td {
     
 }
