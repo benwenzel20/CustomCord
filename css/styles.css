@@ -1,5 +1,11 @@
 nav {
-  background: #3E4B65;
+    background: #1d222b;
+    text-align: center;
+    padding: 20px;
+    -webkit-text-fill-color: #efefef;
+    font-size: 20px;
+    font-family: sans-serif;
+    word-spacing: 20px;
 }
 
 body {
